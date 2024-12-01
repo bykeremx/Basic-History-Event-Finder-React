@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bykeremx/historical-event-finder.git
+   git clone https://github.com/bykeremx/Basic-History-Event-Finder-React.git
    cd historical-event-finder
    ```
 
@@ -89,6 +89,4 @@ Feel free to fork the repository, submit pull requests, or create issues to impr
 
 ---
 🎉 **Built with passion using React and a touch of history!**
-```
 
-This version highlights the use of APIs and adds personality with icon descriptions. Let me know if you'd like more adjustments! 😊
